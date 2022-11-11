@@ -1,0 +1,201 @@
+body{
+  background-image: url(img/nutrients.jpeg);
+  background-size: 100%;
+}
+
+/* ========== PROFILE SECTION =========== */
+header h1 {
+  text-align: center;
+  color: black;
+}
+
+.btn-sm {
+  margin-left: 5%;
+  margin-top: 2%;
+}
+
+.dates h3 {
+  color: black;
+}
+
+
+.orders {
+  border: 2px solid transparent;
+  text-align: center;
+  color: black; 
+}
+
+.mealSection {
+  border: 2px solid red;
+  width: 100%;
+}
+
+
+.messages {
+  border: 2px solid transparent;
+  margin-left: 1%;
+  list-style-position: inside;
+}
+
+.messages li {
+  list-style: none; 
+  text-align: center;
+  /* color: rgb(255,165,0); */
+  color: white;
+  
+  
+}
+
+.fa-check  {
+  margin-left: 23%;
+  color: white;
+}
+
+.fa-trash-o {
+  color: black;
+  margin-left: 23%;
+  font-weight: bolder;
+  font-size: 17px;
+}
+
+/* ======= MEALS OF THE DAY INPUTS ======= */
+
+.mealSection {
+  
+  margin-right: auto;
+  border: 2px solid transparent;
+  width: 100%;
+  margin-top: 1%;
+}
+
+.dailyMeal {
+  border: 2px solid black;
+  width: 25%;
+  height: auto;
+  text-align: center;
+  margin-left: 17%;
+  border-radius: 10px;
+  box-shadow: 10px 5px 5px black;
+}
+
+.dailyMeal button {
+  margin-top: 2%;
+  margin-bottom: 3%;
+}
+
+.txtInput {
+  border: 2px solid transparent;
+  margin-top: 3%;
+}
+
+.txtInput input {
+  width: 35%;
+  text-align: center;
+  margin-left: 13%;
+}
+
+#mealTxt {
+  margin-left: 27%;
+  width: 35%;
+  text-align: center;
+  margin-top: 3%;
+}
+
+#mealTxt input {
+  text-align: center;
+}
+
+.input {
+  border: 2px solid transparent;
+  font-size: 19px;
+  width: 100%;
+  margin-top: 1%;
+  color: rgb(255,165,0)
+}
+
+.meal {
+  border: 1px solid transparent;
+  margin-top: 3%;
+}
+
+.calories {
+  border: 1px solid transparent;
+  margin-top: 1%;
+}
+
+.protein {
+  border: 1px solid transparent;
+  margin-top: 1%;
+}
+
+.carbs {
+  border: 1px solid transparent;
+  margin-top: 1%;
+}
+
+.fats {
+  border: 1px solid transparent;
+  margin-top: 1%;
+}
+
+.options {
+  border: 1px solid transparent;
+  margin-top: 1%;
+}
+
+.daysContainer {
+  border: 2px solid transparent;
+  display: flex;
+  flex-direction: row;
+}
+
+.daysSection {
+  border: 2px solid transparent;
+}
+
+.daysSection h2 {
+  color: rgb(255,165,0);
+  text-align: center;
+}
+
+.daysTxt {
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-top: 2%;
+  box-shadow: 5px 5px 5px black;
+}
+
+
+/* ======= MEALS OF THE DAY INPUTS ======= */
+
+
+
+.checkgreen {
+  color: red;
+  
+}
+
+.checkblack {
+  color: black;
+}
+
+
+.localInfo {
+  visibility: hidden;
+}
+
+/* ========== PROFILE SECTION =========== */
+
+
+/* ====== LOGIN SECTION ====== */
+
+img{
+  height: 200px;
+}
+
+.jumbotron img {
+  height: 250px;
+  width: 260px;
+}
+
+/* ====== LOGIN SECTION ====== */
